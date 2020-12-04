@@ -1,4 +1,4 @@
-# Cities: Temperatures and Density
+# Temperatures and Density
 
 Practicing data cleaning and correlation finding with the provided data.
 
@@ -8,8 +8,9 @@ Simon Fraser University CMPT353
 ### Objective
 With the given data set, determine if there is any correlation between population density and temperature.
 
-### Output
-A [scatterplot](https://github.com/wendyhwl/Temperature-Population-Correlation/blob/main/output.svg) of average maximum temperature against population density.
+### Outcome
+The below plot shows the average maximum temperature against population density. Here we can see that the points are all over the place; thus, the result shows no correlation relationship between the two variables.
+![scatterplot](https://github.com/wendyhwl/Temperature-Population-Correlation/blob/main/output.svg)
 
 ## Language & Library
 
